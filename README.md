@@ -1,2 +1,2 @@
-# hello-world
+# ISMS
 my first GH repository
